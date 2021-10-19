@@ -1,2 +1,2 @@
-# yimike
-博客专用
+# Yimi
+YI专用
